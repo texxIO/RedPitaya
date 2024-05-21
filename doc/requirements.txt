@@ -2,3 +2,4 @@
 sphinxcontrib-wavedrom
 # http://breathe.readthedocs.io/en/latest/
 breathe
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
